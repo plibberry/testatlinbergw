@@ -22,3 +22,5 @@ const problem5 = {
   question: 'Differentiate: p(x) = tan(5x^2)',
   answer: '10x * sec^2(5x^2)'
 };
+
+let problem = Math.Floor(Math.Random()*5)+1;
